@@ -48,4 +48,13 @@ All files here are also available in Dropbox. The link to our Dropbox as below.
 	
 ## Reference
 
-* [Cellan-Jones, R. (2020, Apr 10). Tech Tent: Social media fights a fresh flood of fake news (BBC News)] (https://www.bbc.com/news/technology-52245992)
+* [Tech Tent: Social media fights a fresh flood of fake news (BBC News)](https://www.bbc.com/news/technology-52245992)
+* [The Fake Americans Russia Created to Influence the Election (NY Times)](https://www.nytimes.com/2017/09/07/us/politics/russia-facebook-twitter-election.html)
+* [This Site Uses AI to Generate Fake News Articles](https://futurism.com/site-ai-generate-fake-news-articles)
+* [Catching a Unicorn with GLTR: A tool to detect automatically generated text](http://glhttp://gltr.io/tr.io)
+* [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://arxiv.org/abs/1908.09805)
+* [Fake news detection on social media: A data mining perspective](https://dl.acm.org/doi/abs/10.1145/3137597.3137600)
+* [Global vectors for word representation](https://nlp.stanford.edu/projects/glove/)
+* [Web Scraping news articles in Python](https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558)
+* [Easily Web Scrape and Summarize News Articles Using Python](https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74)
+* [How to Determine the Optimal K for K-Means?](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb)
