@@ -4,13 +4,18 @@ Jinwoo Oh, George Mathew, and Jonathan Culbert
 
 ## Table of contents
 * [Project Plan](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
-* [Building a model with Fake News Detection Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
+* [Building a model with Fake News Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
 * [Building a model with Liar Liar Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
 * [Exploratory Data Analysis for News Category Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/For_ML_Project_news_exploratory_analysis.ipynb)
 * [News Article Scraping Process](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Scraping.ipynb)
+* [K Means Clustering with Scraped Articles](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
 
 
-## General info
+## Dropbox
+
+* [Link to Dropbox](https://www.dropbox.com/sh/66n68vrkuz2uqf7/AAA-A_pbKJ15IdIX5NIL13R9a?dl=0)
+
+## Dataset info
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
