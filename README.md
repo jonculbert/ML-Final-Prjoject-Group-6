@@ -1,5 +1,5 @@
-# ML-Final-Prjoject-Group-6
-Final Project for ML class
+# Machine Learning for Business Application Final Prjoject for Group 6 
+
 
 ## Table of contents
 * [General info](#general-info)
