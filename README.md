@@ -2,6 +2,12 @@
 
 Jinwoo Oh, George Mathew, and Jonathan Culbert
 
+
+Social media platforms have come under unwanted scrutiny in recent years for their role in perpetuating online misinformation, so-called “fake news.” As of this writing in May 2020, a flood of conspiracy theories and falsehoods about the Covid-19 pandemic have become a problem for Facebook and Twitter (Cellan-Jones 2020). In this project, we discuss a variety of means that have been proposed for social media companies to attempt to automate fake news detection. We look at the great difficulty involved in obtaining labeled training data for supervised learning to train deep neural networks in this task, and experience this difficulty first-hand as we unsuccessfully try to train a model to detect misinformation using a public dataset. 
+
+As a related surrogate task, we train a deep recurrent neural network to identify the topic of news articles across a wide range of subjects, achieving 75% test accuracy across 40 categories of news stories, and test how well it generalizes to new news articles that we scraped from the internet. We find that the model generalizes well even to stories that come from a different publication and time period. Finally, we discuss how such a model can serve as one facet of a technological arsenal in the fight against fake news.
+
+
 ## Table of contents
 * [Initial Project Plan](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
 * [Building a model with Fake News Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
