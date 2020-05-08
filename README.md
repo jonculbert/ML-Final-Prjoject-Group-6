@@ -14,11 +14,6 @@ Jinwoo Oh, George Mathew, and Jonathan Culbert
 * [K Means Clustering with Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
 * [Fnal Model and Prediction on Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
 
-## Dropbox 
-
-All files here are also available in Dropbox. The link to our Dropbox as below. 
-
-* [Link to Dropbox](https://www.dropbox.com/sh/66n68vrkuz2uqf7/AAA-A_pbKJ15IdIX5NIL13R9a?dl=0)
 
 ## Dataset Info
 The sources of our dataset are:
@@ -43,12 +38,14 @@ Project is created with:
 * [Browser](https://docs.python.org/3/library/webbrowser.html)
 * [MongoDB](https://www.mongodb.com/)
 * [scikit-learn](https://scikit-learn.org/stable/)
+
+## Dropbox 
+
+All files here are also available in Dropbox. The link to our Dropbox as below. 
+
+* [Link to Dropbox](https://www.dropbox.com/sh/66n68vrkuz2uqf7/AAA-A_pbKJ15IdIX5NIL13R9a?dl=0)
+
 	
 ## Reference
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* [Cellan-Jones, R. (2020, Apr 10). Tech Tent: Social media fights a fresh flood of fake news (BBC News)] (https://www.bbc.com/news/technology-52245992)
