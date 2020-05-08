@@ -9,7 +9,7 @@ Jinwoo Oh, George Mathew, and Jonathan Culbert
 * [Exploratory Data Analysis for News Category Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/For_ML_Project_news_exploratory_analysis.ipynb)
 * [News Articles Scraping Process](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Scraping.ipynb)
 * [K Means Clustering with Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
-
+* [Fnal Model and Prediction on Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
 
 ## Dropbox 
 
@@ -23,8 +23,9 @@ The sources of our dataset are:
 * [Fake News Dataset from Kaggle](https://www.kaggle.com/mrisdal/fake-news)
 * [Liar Lair Dataset from William Wang (Need to scroll down to find the link to download the LIAR dataset)](https://sites.cs.ucsb.edu/~william/software.html)
 * [News Category Dataset from Kaggle](https://www.kaggle.com/rmisra/news-category-dataset)
+* [NPR News Archive](https://www.npr.org/sections/news/archive')
 	
-## Technologies
+## Technologies Used
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
