@@ -1,4 +1,4 @@
-# Machine Learning for Business Application Final Prjoject for Group 6 
+# Machine Learning Final Prjoject for Group 6 
 
 
 ## Table of contents
