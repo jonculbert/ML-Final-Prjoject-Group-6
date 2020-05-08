@@ -30,9 +30,19 @@ The sources of our dataset are:
 	
 ## Technologies Used
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+
+* Google Colab
+* D2L
+* MXNET
+* Pandas
+* Numpy
+* NLTK
+* Matplotlib
+* Seaborn
+* BeatifulSoup
+* Browser
+* Mongo DB
+* Sklearn
 	
 ## Reference
 To run this project, install it locally using npm:
