@@ -3,10 +3,9 @@
 Jinwoo Oh, George Mathew, and Jonathan Culbert
 
 ## Table of contents
-* [Project Plan](#https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
-* [Fake News Detection](#https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Project Plan](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
+* [Fake News](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
+* [Liar Liar](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
