@@ -9,7 +9,7 @@ Social media platforms have come under unwanted scrutiny in recent years for the
 As a related surrogate task, we train a deep recurrent neural network to identify the topic of news articles across a wide range of subjects, achieving 75% test accuracy across 40 categories of news stories, and test how well it generalizes to new news articles that we scraped from the internet. We find that the model generalizes well even to stories that come from a different publication and time period. Finally, we discuss how such a model can serve as one facet of a technological arsenal in the fight against fake news.
 
 
-## Table of contents
+## Table of Contents
 * [Initial Project Plan](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
 * [Building a model with Fake News Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
 * [Building a model with Liar Liar Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
