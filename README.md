@@ -31,18 +31,18 @@ The sources of our dataset are:
 ## Technologies Used
 Project is created with:
 
-* Google Colab
-* D2L
-* MXNET
-* Pandas
-* Numpy
-* NLTK
-* Matplotlib
-* Seaborn
-* BeatifulSoup
-* Browser
-* Mongo DB
-* Sklearn
+* Google Colab(https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+* D2L(http://d2l.ai/index.html)
+* mxnet(https://mxnet.apache.org/)
+* Pandas(https://pandas.pydata.org/docs/index.html)
+* Numpy(https://numpy.org/)
+* nltk(https://www.nltk.org/)
+* Matplotlib(https://matplotlib.org/)
+* Seaborn(https://seaborn.pydata.org/)
+* BeatifulSoup(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* Browser(https://docs.python.org/3/library/webbrowser.html)
+* MongoDB(https://www.mongodb.com/)
+* scikit-learn(https://scikit-learn.org/stable/)
 	
 ## Reference
 To run this project, install it locally using npm:
