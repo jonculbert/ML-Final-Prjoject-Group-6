@@ -19,7 +19,7 @@ As a related surrogate task, we train a deep recurrent neural network to identif
 * [Model Comparison](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-data-alt-models.ipynb)
 * [News Articles Scraping Process](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Scraping.ipynb)
 * [K Means Clustering with Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
-* [Fnal Model and Prediction on Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-final-model.ipynb)
+* [Final Model and Prediction on Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-final-model.ipynb)
 
 
 ## Dataset Info
